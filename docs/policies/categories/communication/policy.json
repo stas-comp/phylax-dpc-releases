@@ -1,0 +1,1 @@
+{"componentId":"communication","componentName":"Communication","componentType":"category","componentVersion":1,"minimumDpcVersionCode":1400,"packages":["com.whatsapp","com.whatsapp.w4b","org.telegram.messenger","org.telegram.messenger.web","org.thoughtcrime.securesms"],"publishedAt":"2026-07-29T15:11:12Z","schemaVersion":2}
