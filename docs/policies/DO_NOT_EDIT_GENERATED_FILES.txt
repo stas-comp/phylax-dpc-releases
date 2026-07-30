@@ -1,2 +1,0 @@
-These files are generated and signed.
-Do not edit them. Change policies/edit and run menu option 1 instead.
