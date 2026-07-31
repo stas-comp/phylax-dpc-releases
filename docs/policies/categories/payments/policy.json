@@ -1,1 +1,1 @@
-{"componentId":"payments","componentName":"Payments","componentType":"category","componentVersion":1,"minimumDpcVersionCode":1400,"packages":["com.google.android.apps.walletnfcrel"],"publishedAt":"2026-07-29T15:11:12Z","schemaVersion":2}
+{"componentId":"payments","componentName":"Payments","componentType":"category","componentVersion":2,"minimumDpcVersionCode":1400,"packages":["com.google.android.apps.walletnfcrel","com.transferwise.android"],"publishedAt":"2026-07-31T13:43:47Z","schemaVersion":2}
